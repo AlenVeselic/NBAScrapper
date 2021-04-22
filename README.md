@@ -3,7 +3,7 @@ A command line Java app that returns the three point averages for a given player
 
 # How to use it
 
- scrappers.App [playerName] [playerSurname]
+   scrappers.App [playerName] [playerSurname]
  
  The two arguments are then used to determine the url for the stat page, since each player has his own unique id assigns to them.
  
