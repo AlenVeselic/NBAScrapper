@@ -26,6 +26,7 @@ A command line Java app that returns the three point averages for a given player
   
  # Reminder
  Program ne podpira šumnikov.
+ 
  The app does not support letters outside of unicode standards, therefore using letters like Č,Š,Ž,Ć, will return an exception, since the sorting algorithm for the site is also without this, I decided to omit support for them.
   
   
