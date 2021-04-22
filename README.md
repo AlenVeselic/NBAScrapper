@@ -25,7 +25,7 @@ A command line Java app that returns the three point averages for a given player
   When the page is exhausted of players with that id, the app prints a "Print complete" message. Informing the user of the finished task.
   
  # Reminder
- Program ne podpira šumnikov
+ Program ne podpira šumnikov.
  The app does not support letters outside of unicode standards, therefore using letters like Č,Š,Ž,Ć, will return an exception, since the sorting algorithm for the site is also without this, I decided to omit support for them.
   
   
